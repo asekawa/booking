@@ -5,4 +5,5 @@ admin login and signup
 customer login an signup
 
 menu selection
+delivery information
 
