@@ -3,3 +3,6 @@
 welcome to the resturant management system
 admin login and signup
 customer login an signup
+
+menu selection
+
